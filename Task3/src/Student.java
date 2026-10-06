@@ -4,4 +4,8 @@ public class Student {
     String Grading;
     static String RegStatus;
     static String ExamCentre;
+
+    {
+        
+    }
 }
