@@ -20,4 +20,8 @@ public class Student {
         System.out.println("RegStatus: "+RegStatus);
         System.out.println("ExamCentre: "+ExamCentre);
     }
+
+    public Student (String g) {
+
+    }
 }
