@@ -22,6 +22,8 @@ public class Student {
     }
 
     public Student (String g) {
-
+        Grading = g;
+        System.out.println("=== Constructor ===");
+        System.out.println("Grading: "+g);
     }
 }
