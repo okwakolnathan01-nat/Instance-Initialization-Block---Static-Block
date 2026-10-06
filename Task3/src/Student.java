@@ -14,6 +14,10 @@ public class Student {
     }
 
     static {
-
+        RegStatus = "Registered";
+        ExamCentre = "UG08IUEA";
+        System.out.println("=== Static Block ===");
+        System.out.println("RegStatus: "+RegStatus);
+        System.out.println("ExamCentre: "+ExamCentre);
     }
 }
