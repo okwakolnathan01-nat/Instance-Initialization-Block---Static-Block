@@ -12,4 +12,8 @@ public class Student {
         System.out.println("ExamYear: "+ExamYear);
         System.out.println("RegFees: "+RegFees);
     }
+
+    static {
+
+    }
 }
